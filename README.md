@@ -2,6 +2,8 @@
 
 A **Streamlit-based web application** for predicting pancreatic cancer patient survival outcomes using machine learning. This tool analyzes clinical conditions, symptoms, treatment types, and lifestyle factors to provide survival predictions and risk assessments.
 
+https://welsonxw-mini-project---bioinformatics-2-app-0x7v3t.streamlit.app/ 
+
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.0+-red.svg)
 ![License](https://img.shields.io/badge/License-Academic-green.svg)
